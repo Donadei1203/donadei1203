@@ -1,29 +1,22 @@
-# Olá! Eu sou o Gustavo 👋
+# Olá! Eu sou o Gustavo Donadei
 
-🎓 Estudante de tecnologia e desenvolvimento de sistemas.
-
-💻 Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT).
+Estudante de tecnologia e desenvolvimento de sistemas
 
 ## 🚀 Sobre mim
+Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT).
 
-- 📚 Estou desenvolvendo minhas habilidades em programação.
-- 🌐 Tenho interesse em desenvolvimento de sites e aplicações web.
-- ⚙️ Gosto de trabalhar com projetos práticos e resolver problemas por meio da tecnologia.
-- 🎯 Meu objetivo é continuar evoluindo como desenvolvedor e construir projetos cada vez melhores.
 
-## 🛠️ Tecnologias
+- Estou desenvolvendo minhas habilidades em programação.
+- Tenho interesse em desenvolvimento de sites e aplicações web.
+- Gosto de trabalhar com projetos práticos e resolver problemas por meio da tecnologia.
+- Meu objetivo é continuar evoluindo como desenvolvedor e construir projetos cada vez melhores principalmente na parte técnica
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-- Git e GitHub
+## Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,arduino,angular,nodejs,vercel" />
+</p>
 
 ## 📂 Projetos
 
 Confira meus repositórios para conhecer meus projetos e minha evolução como desenvolvedor.
-
-## 📫 Contato
-
-- GitHub: [Meu perfil](https://github.com/SEU-USUARIO)
