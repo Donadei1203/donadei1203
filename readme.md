@@ -20,3 +20,7 @@ Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT
 ## Projetos
 
 Confira meus repositórios para conhecer meus projetos e minha evolução como desenvolvedor.
+
+## Github Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Donadei1203&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Donadei1203&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Donadei1203&layout=compact&langs_count=4&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Donadei1203&layout=compact&langs_count=4&disable_animations=true&theme=dark)
