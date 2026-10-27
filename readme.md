@@ -14,7 +14,7 @@ Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT
 ## Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jsx,bootstrap,selenium,react,vite,angular,py,mysql,nodejs,express,vercel,git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,selenium,react,vite,angular,py,mysql,nodejs,express,vercel,git,github,arduino" />
 </p>
 
 ## Projetos
