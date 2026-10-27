@@ -2,7 +2,7 @@
 
 Estudante de tecnologia e desenvolvimento de sistemas
 
-## 🚀 Sobre mim
+## Sobre mim
 Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT).
 
 
@@ -17,6 +17,6 @@ Tenho interesse em desenvolvimento web, programação e Internet das Coisas (IoT
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,arduino,angular,nodejs,vercel" />
 </p>
 
-## 📂 Projetos
+## Projetos
 
 Confira meus repositórios para conhecer meus projetos e minha evolução como desenvolvedor.
