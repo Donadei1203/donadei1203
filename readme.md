@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo Donadei
+# Olá! Eu sou Gustavo Donadei
 
 Estudante de tecnologia e desenvolvimento de sistemas
 
